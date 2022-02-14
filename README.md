@@ -21,6 +21,3 @@
   <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=confusity&layout=compact&theme=dark">
 </p>
 
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=DrayNeur.DrayNeur">
-</p>
