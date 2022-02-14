@@ -5,7 +5,7 @@
 <h2 align="center"> I have experience with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
-  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=c&sort= > <img width ='42px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png> </a>
+  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=c&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
   <a href= https://github.com/confusity?tab=repositories&q=&type=&language=cpp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
   <a href= https://github.com/confusity?tab=repositories&q=&type=&language=csharp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
   <a href= https://github.com/confusity?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
