@@ -18,6 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=confusity&layout=compact&theme=dark">
+  <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=cozyz&layout=compact&theme=dark">
 </p>
 
