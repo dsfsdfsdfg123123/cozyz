@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=confusity.confusity">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=DrayNeur.DrayNeur">
 </p>
