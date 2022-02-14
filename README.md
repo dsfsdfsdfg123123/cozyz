@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center"> Hey, I'm Ryan </h1>
 
-<!--
-**cozyz/cozyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I'm a kid learning .NET and reverse engineering.</h4>
 
-Here are some ideas to get you started:
+<h2 align="center"> I have experience with: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=c&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=cpp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=csharp&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+  <a href= https://github.com/confusity?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='42px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
+</p>
+
+<h2 align="center"> My GitHub Stats: </h2>
+  
+<p align="center">
+  <img src="https://github-readme-stats-zenixas.vercel.app/api?username=confusity&count_private=true&layout=compact&hide=issues&show_icons=true&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-zenixas.vercel.app/api/top-langs/?username=confusity&layout=compact&theme=dark">
+</p>
+
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=confusity.confusity">
+</p>
